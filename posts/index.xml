@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Simple Write</title>
+        <title>All Posts - The Journey Ahead</title>
         <link>https://liyun95.github.io/posts/</link>
-        <description>All Posts | Simple Write</description>
+        <description>All Posts | The Journey Ahead</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 19 Jan 2023 00:57:19 &#43;0800</lastBuildDate><atom:link href="https://liyun95.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>2022 Year in Review</title>
     <link>https://liyun95.github.io/posts/2022-year-in-review/</link>
     <pubDate>Thu, 19 Jan 2023 00:57:19 &#43;0800</pubDate><author>
-        <name>Yun</name>
-    </author><guid>https://liyun95.github.io/posts/2022-year-in-review/</guid>
+                    <name>liyun</name>
+                </author><guid>https://liyun95.github.io/posts/2022-year-in-review/</guid>
     <description><![CDATA[In many ways, 2022 seemed like an extension of 2021 — the stories all too familiar, only now with added intensity and uncertainty. COVID-19 curbs got harsher. The climate crisis became worse. Episodes of violence against women more shocking. But a cute Olympics mascot, a handful of remarkable performances by female athletes, and the metaverse bubble served as welcome distractions. For me, personally, the year 2022 might look and feel a bit different.]]></description>
 </item></channel>
 </rss>

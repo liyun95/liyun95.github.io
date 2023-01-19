@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>The Journey Ahead</title>
-        <link>https://liyun95.github.io/</link>
-        <description>The Journey Ahead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 19 Jan 2023 00:57:19 &#43;0800</lastBuildDate>
-            <atom:link href="https://liyun95.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>life - Tag - The Journey Ahead</title>
+        <link>https://liyun95.github.io/tags/life/</link>
+        <description>life - Tag - The Journey Ahead</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 19 Jan 2023 00:57:19 &#43;0800</lastBuildDate><atom:link href="https://liyun95.github.io/tags/life/" rel="self" type="application/rss+xml" /><item>
     <title>2022 Year in Review</title>
     <link>https://liyun95.github.io/posts/2022-year-in-review/</link>
     <pubDate>Thu, 19 Jan 2023 00:57:19 &#43;0800</pubDate><author>
